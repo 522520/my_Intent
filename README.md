@@ -4,3 +4,6 @@
 第二个应用：自定义WebView来加载URL
 
 实验演示
+
+div align=left><img width="300" height="600" src="https://github.com/522520/my_Intent/blob/master/images/1.png"/></div>
+<br><br>
